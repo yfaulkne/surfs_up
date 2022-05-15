@@ -11,12 +11,12 @@
 ##### December Results
 * December had just over 1500 counts of data with an average temperature of 71 degrees Farenheit. 
 * The minimum temperature was 56 dgrees and the maximum was 83 degrees.
---- 
+---
+![](https://github.com/yfaulkne/surfs_up/blob/main/June_Temps.png)
+![](https://github.com/yfaulkne/surfs_up/blob/main/Dec_Temps.png)
 ## Summary
 ##### In order to provide a more end-user friendly statitsics analysis, I created histograms for both the June and Decmeber Results. Also, using numpy, I calculated the mode of both months for further clarification. 
 * The mode for June temperatures was 76.
 * The mode for December temperatures was 71.
-![](https://github.com/yfaulkne/surfs_up/blob/main/June_Temps.png)
-![]()
-##### The reuslts showed that weather in Oahu is fairly stable year round with temperatures ranging from roughly 56 to 85 degrees Farenheit from June to December.
+##### The results showed that weather in Oahu is fairly stable year round with temperatures ranging from roughly 56 to 85 degrees Farenheit from June to December.
 ##### I would recommend opening the surf shop in Oahu as this seems like a great location with moderate temperatures great for surfing and ice cream.
